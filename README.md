@@ -26,3 +26,5 @@ The **PokéDex Web App** is a simple web application that allows users to search
 - **CSS3**: Styling of the app, including responsive design.
 - **JavaScript**: Fetching and displaying Pokémon data from the API.
 - **PokéAPI**: The API used to retrieve Pokémon data.
+
+![PokeDex](PokeDex.png)
